@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm XiangMaster</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiangmaster&label=Profile%20views&color=0e75b6&style=flat" alt="xiangmaster" /> </p>
 
+- 🔭 I’m currently Studying in **Tongji University**
+
+- 🌱 I’m currently learning **...**
+
+- 👯 I’m looking to collaborate on **...**
+
+- 🤝 I’m looking for help with **...**
+
+- 📫 How to reach me **2351716@tongji.edu.cn**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
