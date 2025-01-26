@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently Studying in **Tongji University**
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning **Database Systems, Algorithms, Operating Systems and Computer Networks**
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 I’m looking to collaborate on **open-source project related to artifical intelligence and machine learning**
 
-- 🤝 I’m looking for help with **...**
+- 🤝 I’m looking for help with **improving knowledge and skills in deep learning**
 
 - 📫 How to reach me **2351716@tongji.edu.cn**
 
