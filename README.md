@@ -1,78 +1,186 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=XiangMaster&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Security%20%7C%20LLM%20Security%20%7C%20AI4SE&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050816,30:0D47A1,65:6D28D9,100:00E5FF&height=240&section=header&text=XiangMaster&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Software%20Security%20%E2%80%A2%20LLM%20Security%20%E2%80%A2%20AI4SE&descAlignY=58&descSize=18"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+%40+Tongji+University;Automated+Vulnerability+Repair;Software+%26+LLM+Security;Building+Safer+Intelligent+Software" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=00E5FF&center=true&vCenter=true&width=850&height=48&lines=%24+whoami+%E2%86%92+XiangMaster;%24+research+--focus+%E2%86%92+Automated+Vulnerability+Repair;%24+explore+%E2%86%92+Software+Security+%2B+LLM+Security;%24+mission+%E2%86%92+Building+Safer+Intelligent+Software" />
 
-<br/>
+<p>
+<a href="mailto:rxwu@tongji.edu.cn"><img src="https://img.shields.io/badge/EMAIL-rxwu%40tongji.edu.cn-FF1744?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/xiangmaster"><img src="https://img.shields.io/badge/GITHUB-XiangMaster-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=xiangmaster&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+</p>
 
-<a href="mailto:rxwu@tongji.edu.cn">
-<img src="https://img.shields.io/badge/Email-rxwu%40tongji.edu.cn-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/xiangmaster">
-<img src="https://img.shields.io/badge/GitHub-XiangMaster-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING_SAFER_SOFTWARE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCATION-TONGJI_UNIVERSITY-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-VULNERABILITY_REPAIR-FF1744?style=flat-square"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+<table>
+<tr>
 
-🎓 I'm an undergraduate student in **Software Engineering at Tongji University**.
+<td width="58%" valign="top">
 
-🔐 My research interests mainly lie in **Automated Vulnerability Repair**, **Software Security**, and **LLM / Agent Security**.
+## 👨‍💻 `> whoami`
 
-🛠️ I'm particularly interested in leveraging **large language models and program analysis** to understand and repair software vulnerabilities.
+```text
+Name      : XiangMaster
+School    : Tongji University
+Major     : Software Engineering
 
-🌱 Currently exploring **LLM-based program repair, agent security, and secure intelligent software systems**.
+Research  : Automated Vulnerability Repair
+            Software Security
+            LLM / Agent Security
 
-🥁 Outside of coding: **drums**   |   🎾 **tennis**
+Mission   : Understand how software breaks,
+            then make intelligent systems fix it.
+```
+
+🧠 Interested in combining **Large Language Models + Program Analysis**
+
+🔐 Exploring **security vulnerabilities, automated repair, and secure AI agents**
+
+🚀 Building systems at the intersection of **AI × Security × Software Engineering**
+
+🥁 Drums    //    🎾 Tennis
+
+</td>
+
+<td width="42%" valign="top">
+
+## 🎯 `> current_focus`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/01-LLM_Vulnerability_Repair-FF1744?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Multi--hunk_Repair-0D1117?style=flat-square&logo=git&logoColor=FF1744"/>
+<img src="https://img.shields.io/badge/Context_Engineering-0D1117?style=flat-square&logo=openai&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/Program_Analysis-0D1117?style=flat-square&logo=c&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Agent_Security-0D1117?style=flat-square&logo=probot&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/AI4SE-0D1117?style=flat-square&logo=github&logoColor=00C853"/>
+
+<br/><br/>
+
+```text
+REPAIR
+  │
+  ├─ Context
+  ├─ Localization
+  ├─ Reasoning
+  ├─ Generation
+  └─ Validation
+```
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔬 Research Interests
+<div align="center">
 
-<p align="center">
+## 🔬 `RESEARCH_DOMAINS`
 
-<img src="https://img.shields.io/badge/Vulnerability%20Repair-D73A49?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
-<img src="https://img.shields.io/badge/Software%20Security-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM%20Security-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20for%20SE-238636?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/AUTOMATED_VULNERABILITY_REPAIR-FF1744?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOFTWARE_SECURITY-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_SECURITY-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AGENT_SECURITY-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROGRAM_ANALYSIS-00A6A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI4SE-238636?style=for-the-badge"/>
 
-</p>
-
-* 🔧 **Automated Vulnerability Repair**
-* 🛡️ **Software & System Security**
-* 🤖 **LLM / Agent Security**
-* 🧠 **AI for Software Engineering**
-* 🔍 **Program Analysis**
+</div>
 
 ---
 
-## 🚀 Research & Projects
+# 🚀 Research & Projects
 
 <table>
 <tr>
 <td width="100%" valign="top">
 
-### 🔧 Automated Vulnerability Repair
+<table>
+<tr>
 
-**LLM-based Automated Vulnerability Repair**
+<td width="16%" align="center" valign="middle">
 
-My primary research focuses on **automated vulnerability repair with large language models**, especially how contextual information and repair workflows affect complex vulnerability fixes.
+<h1>01</h1>
 
-I am particularly interested in:
+<h1>🔧</h1>
 
-* multi-hunk vulnerability repair
-* context selection and organization
-* repair ordering and multi-step workflows
-* improving the reliability of LLM-based program repair
+<img src="https://img.shields.io/badge/PRIMARY-FOCUS-FF1744?style=for-the-badge"/>
 
-`Automated Program Repair` `Vulnerability Repair` `LLM` `AI4SE` `Program Analysis`
+</td>
+
+<td width="84%" valign="top">
+
+## Automated Vulnerability Repair
+
+### `LLM-based Automated Vulnerability Repair`
+
+My primary research focuses on leveraging **large language models for automated vulnerability repair**, especially complex fixes requiring richer contextual information and multi-step repair workflows.
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🧩
+
+**Multi-hunk Repair**
+
+Complex patches spanning multiple locations
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Context Selection**
+
+Selecting useful repair context
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔄
+
+**Repair Workflow**
+
+Structured multi-step repair
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔍
+
+**Program Analysis**
+
+Understanding vulnerable code
+
+</td>
+</tr>
+</table>
+
+<p>
+<img src="https://img.shields.io/badge/Automated_Program_Repair-FF1744?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vulnerability_Repair-D73A49?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI4SE-238636?style=flat-square"/>
+<img src="https://img.shields.io/badge/Program_Analysis-00A6A6?style=flat-square"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -83,27 +191,67 @@ I am particularly interested in:
 
 <td width="50%" valign="top">
 
-### 🪄 SpellSmith
+<table>
+<tr>
+
+<td width="17%" align="center">
+
+<h2>02</h2>
+
+<h2>🪄</h2>
+
+</td>
+
+<td width="83%" valign="top">
+
+## SpellSmith
 
 **MCP Ecosystem Security**
 
-Studying security risks in the **Model Context Protocol ecosystem**, with a focus on vulnerable information flows and missing security information in MCP servers.
+Studying security risks in the **Model Context Protocol ecosystem**, especially vulnerable information flows and missing security information in MCP servers.
 
-Exploring metadata-enhanced and runtime defense mechanisms for securing LLM agents.
+Exploring metadata-enhanced and runtime defense mechanisms for securing **LLM agents**.
 
-`LLM Security` `MCP` `Agent Security` `Software Security`
+<img src="https://img.shields.io/badge/LLM_Security-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agent_Security-6F42C1?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🦠 PolarCatch
+<table>
+<tr>
+
+<td width="17%" align="center">
+
+<h2>03</h2>
+
+<h2>🦠</h2>
+
+</td>
+
+<td width="83%" valign="top">
+
+## PolarCatch
 
 **Dormant Ransomware Detection**
 
 Exploring techniques for detecting **dormant ransomware** by combining program analysis, LLM-derived semantic information, and graph-based learning.
 
-`Software Security` `Malware` `LLM` `Graph Learning`
+Focusing on malicious behaviors that remain hidden before activation.
+
+<img src="https://img.shields.io/badge/Malware-00A86B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software_Security-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Graph_Learning-238636?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -112,96 +260,219 @@ Exploring techniques for detecting **dormant ransomware** by combining program a
 
 ---
 
-## 🛠️ Languages & Tools
+# 🧰 Tech Arsenal
 
-<div align="center">
+<table>
 
-### 💻 Programming Languages
+<tr>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" />
+<td width="33%" align="center" valign="top">
 
-<br/><br/>
+## 💻 Languages
 
-### 🤖 AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
 
-<img src="https://skillicons.dev/icons?i=pytorch" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts" />
 
-<br/><br/>
+<br/>
 
-### 🔐 Security & Systems
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square"/>
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+## 🤖 AI & Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,anaconda" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48"/>
+
+<br/>
+
+`PyTorch` `NumPy`
+`Pandas` `Jupyter`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+## 🔐 Security & Systems
 
 <img src="https://skillicons.dev/icons?i=linux,docker,bash" />
 
-<br/><br/>
+<br/>
 
-`Program Analysis` · `Vulnerability Analysis` · `Automated Program Repair` · `LLM / Agent Security`
+<img src="https://img.shields.io/badge/Program_Analysis-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vulnerability_Analysis-0D1117?style=flat-square"/>
+<img src="https://img.shields.io/badge/Security_Research-0D1117?style=flat-square"/>
 
-<br/><br/>
+</td>
 
-### 🌐 Software Development
+</tr>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs" />
+<tr>
 
-<br/><br/>
+<td width="33%" align="center" valign="top">
 
-### 🗄️ Database & Data
+## 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+<img src="https://skillicons.dev/icons?i=vue,nodejs" />
+
+<br/>
+
+`React` `Vue.js`
+`Node.js`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+## 🗄️ Data & Database
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-<br/><br/>
+<br/>
 
-### ⚙️ Development Tools
+`MySQL` `SQLite`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+`Data Processing`
 
-<br/><br/>
+`Experiment Pipelines`
 
-### 📌 Currently Focusing On
+</td>
 
-`LLM-based Vulnerability Repair`
-  ·  
-`Software Security`
-  ·  
-`AI for Software Engineering`
-  ·  
-`Secure AI Agents`
+<td width="33%" align="center" valign="top">
+
+## ⚙️ Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=idea,cmake" />
+
+<br/>
+
+`Git` `GitHub`
+`VS Code` `IntelliJ`
+`CMake`
+
+</td>
+
+</tr>
+
+</table>
+
+<div align="center">
+
+### 🧪 `RESEARCH_TOOLBOX`
+
+<img src="https://img.shields.io/badge/Automated_Program_Repair-FF1744?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Program_Analysis-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Agents-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vulnerability_Analysis-1F6FEB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graph_Learning-238636?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📫 Let's Connect
+# 📊 GitHub Intelligence
 
 <div align="center">
 
-I'm always interested in discussions and collaborations around
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xiangmaster&theme=github_dark"/>
 
-**Automated Vulnerability Repair · Software Security · LLM Security · AI for Software Engineering**
+<table>
+<tr>
 
-<br/><br/>
+<td width="50%" align="center">
 
-<a href="mailto:rxwu@tongji.edu.cn">
-<img src="https://img.shields.io/badge/Email-rxwu%40tongji.edu.cn-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=xiangmaster&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
 
-<a href="https://github.com/xiangmaster">
-<img src="https://img.shields.io/badge/GitHub-XiangMaster-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</td>
 
-<br/><br/>
+<td width="50%" align="center">
 
-<img src="https://komarev.com/ghpvc/?username=xiangmaster&style=flat-square&color=1F6FEB&label=Profile+Views"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangmaster&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
-<br/><br/>
+</td>
 
-<i>Exploring how software breaks — and how intelligent systems can make it safer.</i>
+</tr>
+</table>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=xiangmaster&theme=tokyonight&hide_border=true&card_width=900"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=100&section=footer"/>
+---
+
+## 📈 `CONTRIBUTION_STREAM`
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=xiangmaster&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FF1744&area=true&area_color=1F6FEB&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 `SYSTEM_METRICS`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=xiangmaster&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="62%" valign="middle">
+
+## 🤝 `> connect`
+
+```bash
+$ contact --research
+
+Automated Vulnerability Repair
+Software Security
+LLM / Agent Security
+AI for Software Engineering
+
+> status: open to discussions & collaborations
+```
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<a href="mailto:rxwu@tongji.edu.cn">
+<img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-FF1744?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/xiangmaster">
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW_ME-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=780&lines=%3E+Exploring+how+software+breaks...;%3E+Understanding+why+it+breaks...;%3E+Building+intelligent+systems+to+make+it+safer." />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,35:1F6FEB,70:6D28D9,100:050816&height=110&section=footer"/>
+
+</div>
