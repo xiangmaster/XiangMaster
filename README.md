@@ -116,21 +116,61 @@ Exploring techniques for detecting **dormant ransomware** by combining program a
 
 <div align="center">
 
-### Languages
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" />
 
-<br/>
+<br/><br/>
 
-### Research & Development
+### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,linux,docker,git,mysql" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter"/>
 
-<br/>
+<br/><br/>
 
-### Tools
+### 🔐 Security & Systems
 
-<img src="https://skillicons.dev/icons?i=vscode,github,anaconda" />
+<img src="https://skillicons.dev/icons?i=linux,docker,bash" />
+
+<br/><br/>
+
+`Program Analysis` · `Vulnerability Analysis` · `Automated Program Repair` · `LLM / Agent Security`
+
+<br/><br/>
+
+### 🌐 Software Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs" />
+
+<br/><br/>
+
+### 🗄️ Database & Data
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+<br/><br/>
+
+### ⚙️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+
+<br/><br/>
+
+### 📌 Currently Focusing On
+
+`LLM-based Vulnerability Repair`
+  ·  
+`Software Security`
+  ·  
+`AI for Software Engineering`
+  ·  
+`Secure AI Agents`
 
 </div>
 
