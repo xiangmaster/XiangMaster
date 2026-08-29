@@ -136,26 +136,6 @@ Exploring techniques for detecting **dormant ransomware** by combining program a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xiangmaster&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangmaster&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=xiangmaster&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
