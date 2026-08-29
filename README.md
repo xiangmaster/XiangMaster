@@ -39,51 +39,57 @@
 
 <!-- ===================== ABOUT ===================== -->
 
-## `> about_me.py`
-
-```python
-xiangmaster = {
-    "school": "Tongji University",
-    "major": "Software Engineering",
-
-    "research": [
-        "Automated Vulnerability Repair",
-        "Software Security",
-        "LLM / Agent Security",
-        "AI for Software Engineering",
-    ],
-
-    "current_focus": {
-        "primary": "LLM-based Vulnerability Repair",
-        "topics": [
-            "Multi-hunk Repair",
-            "Context Selection",
-            "Program Analysis",
-            "Repair Workflows",
-        ],
-    },
-
-    "interests": [
-        "🥁 Drums",
-        "🎾 Tennis",
-    ],
-}
-```
+<h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vulnerability_Repair-FF4D6D?style=flat-square" alt="Vulnerability Repair">
-  <img src="https://img.shields.io/badge/Software_Security-58A6FF?style=flat-square" alt="Software Security">
-  <img src="https://img.shields.io/badge/LLM_Security-8957E5?style=flat-square" alt="LLM Security">
-  <img src="https://img.shields.io/badge/Agent_Security-A371F7?style=flat-square" alt="Agent Security">
-  <img src="https://img.shields.io/badge/Program_Analysis-39C5CF?style=flat-square" alt="Program Analysis">
-  <img src="https://img.shields.io/badge/AI4SE-3FB950?style=flat-square" alt="AI4SE">
+  <b>Software Engineering @ Tongji University</b>
+  <br/>
+  <sub>Exploring the intersection of Software Security, Large Language Models, and Software Engineering.</sub>
 </p>
 
-> 🔐 Interested in combining **Large Language Models + Program Analysis** to understand, detect, and repair software vulnerabilities.
->
-> 🚀 Currently exploring **LLM-based program repair, agent security, and secure intelligent software systems**.
+<p align="center">
+  <img src="https://img.shields.io/badge/🔧_Automated_Vulnerability_Repair-FF4D6D?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🛡️_Software_Security-1F6FEB?style=for-the-badge">
+  <img src="https://img.shields.io/badge/🤖_LLM_&_Agent_Security-8957E5?style=for-the-badge">
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_AI_for_Software_Engineering-238636?style=flat-square">
+  <img src="https://img.shields.io/badge/🔍_Program_Analysis-00A6A6?style=flat-square">
+  <img src="https://img.shields.io/badge/⚙️_Secure_Intelligent_Software-6E40C9?style=flat-square">
+</p>
 
+<br/>
+
+🎓 I'm an undergraduate student majoring in **Software Engineering at Tongji University**.
+
+🔐 My research interests center on **Automated Vulnerability Repair**, **Software Security**, and **LLM / Agent Security**.
+
+🧠 I'm particularly interested in combining **large language models and program analysis** to understand, detect, and repair software vulnerabilities.
+
+🚀 Currently focusing on **multi-hunk vulnerability repair, context engineering, repair workflows, and secure AI agents**.
+
+🥁 Outside research, I enjoy **drumming** and 🎾 **tennis**.
+
+<br/>
+
+<div align="center">
+
+### ✦ Current Focus
+
+`Multi-hunk Repair`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Context Engineering`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Program Analysis`
+
+`LLM-based Repair`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`Agent Security`
+&nbsp;&nbsp;•&nbsp;&nbsp;
+`AI4SE`
+
+</div>
 <!-- ===================== RESEARCH ===================== -->
 
 ## `> research_projects`
