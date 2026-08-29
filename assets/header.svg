@@ -1,0 +1,363 @@
+<svg
+  width="1200"
+  height="300"
+  viewBox="0 0 1200 300"
+  xmlns="http://www.w3.org/2000/svg"
+>
+
+  <defs>
+
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="48%" stop-color="#A371F7"/>
+      <stop offset="100%" stop-color="#39C5CF"/>
+    </linearGradient>
+
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#D2A8FF"/>
+      <stop offset="100%" stop-color="#79C0FF"/>
+    </linearGradient>
+
+    <radialGradient id="background" cx="50%" cy="45%" r="70%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </radialGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern
+      id="grid"
+      width="40"
+      height="40"
+      patternUnits="userSpaceOnUse"
+    >
+      <path
+        d="M 40 0 L 0 0 0 40"
+        fill="none"
+        stroke="#30363D"
+        stroke-width="0.6"
+        opacity="0.35"
+      />
+    </pattern>
+
+  </defs>
+
+
+  <!-- ===================== ANIMATIONS ===================== -->
+
+  <style>
+
+    @keyframes pulse {
+      0%, 100% {
+        opacity: 0.25;
+      }
+
+      50% {
+        opacity: 0.95;
+      }
+    }
+
+    @keyframes dash {
+      from {
+        stroke-dashoffset: 0;
+      }
+
+      to {
+        stroke-dashoffset: -60;
+      }
+    }
+
+    @keyframes floating {
+      0%, 100% {
+        transform: translateY(0px);
+      }
+
+      50% {
+        transform: translateY(-5px);
+      }
+    }
+
+    @keyframes breathe {
+      0%, 100% {
+        opacity: 0.65;
+      }
+
+      50% {
+        opacity: 1;
+      }
+    }
+
+    .pulse {
+      animation: pulse 3s ease-in-out infinite;
+    }
+
+    .flow {
+      stroke-dasharray: 10 12;
+      animation: dash 4s linear infinite;
+    }
+
+    .logo {
+      transform-origin: 600px 72px;
+      animation: floating 4s ease-in-out infinite;
+    }
+
+    .accent {
+      animation: breathe 3s ease-in-out infinite;
+    }
+
+  </style>
+
+
+  <!-- ===================== BACKGROUND ===================== -->
+
+  <rect
+    width="1200"
+    height="300"
+    fill="url(#background)"
+  />
+
+  <rect
+    width="1200"
+    height="300"
+    fill="url(#grid)"
+  />
+
+
+  <!-- ===================== TOP + BOTTOM ACCENTS ===================== -->
+
+  <rect
+    x="0"
+    y="0"
+    width="1200"
+    height="3"
+    fill="url(#accent)"
+    filter="url(#glow)"
+    class="accent"
+  />
+
+  <rect
+    x="0"
+    y="297"
+    width="1200"
+    height="3"
+    fill="url(#accent)"
+    opacity="0.5"
+  />
+
+
+  <!-- ===================== LEFT NETWORK ===================== -->
+
+  <g opacity="0.55">
+
+    <circle
+      cx="105"
+      cy="82"
+      r="4"
+      fill="#58A6FF"
+      class="pulse"
+    />
+
+    <circle
+      cx="170"
+      cy="130"
+      r="3"
+      fill="#A371F7"
+      class="pulse"
+    />
+
+    <circle
+      cx="92"
+      cy="191"
+      r="3"
+      fill="#39C5CF"
+      class="pulse"
+    />
+
+    <circle
+      cx="200"
+      cy="220"
+      r="2"
+      fill="#58A6FF"
+      class="pulse"
+    />
+
+    <path
+      d="M105 82 L170 130 L92 191 L200 220"
+      stroke="#58A6FF"
+      stroke-width="1"
+      fill="none"
+      class="flow"
+    />
+
+    <path
+      d="M105 82 L92 191"
+      stroke="#A371F7"
+      stroke-width="1"
+      fill="none"
+      opacity="0.5"
+    />
+
+  </g>
+
+
+  <!-- ===================== RIGHT NETWORK ===================== -->
+
+  <g opacity="0.55">
+
+    <circle
+      cx="1080"
+      cy="76"
+      r="4"
+      fill="#A371F7"
+      class="pulse"
+    />
+
+    <circle
+      cx="1018"
+      cy="132"
+      r="3"
+      fill="#58A6FF"
+      class="pulse"
+    />
+
+    <circle
+      cx="1104"
+      cy="193"
+      r="3"
+      fill="#39C5CF"
+      class="pulse"
+    />
+
+    <circle
+      cx="1004"
+      cy="225"
+      r="2"
+      fill="#58A6FF"
+      class="pulse"
+    />
+
+    <path
+      d="M1080 76 L1018 132 L1104 193 L1004 225"
+      stroke="#A371F7"
+      stroke-width="1"
+      fill="none"
+      class="flow"
+    />
+
+    <path
+      d="M1080 76 L1104 193"
+      stroke="#39C5CF"
+      stroke-width="1"
+      fill="none"
+      opacity="0.5"
+    />
+
+  </g>
+
+
+  <!-- ===================== CENTER SECURITY MARK ===================== -->
+
+  <g class="logo">
+
+    <path
+      d="
+        M600 48
+        L621 60
+        L621 84
+        L600 97
+        L579 84
+        L579 60
+        Z
+      "
+      fill="#0D1117"
+      stroke="url(#accent)"
+      stroke-width="2"
+      filter="url(#glow)"
+    />
+
+    <path
+      d="M591 70 L598 77 L610 64"
+      fill="none"
+      stroke="#FFFFFF"
+      stroke-width="3"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+  </g>
+
+
+  <!-- ===================== TITLE ===================== -->
+
+  <text
+    x="600"
+    y="158"
+    text-anchor="middle"
+    fill="url(#title)"
+    font-family="Segoe UI, Arial, Helvetica, sans-serif"
+    font-size="50"
+    font-weight="700"
+    letter-spacing="2"
+  >
+    XiangMaster
+  </text>
+
+
+  <!-- ===================== SUBTITLE ===================== -->
+
+  <text
+    x="600"
+    y="198"
+    text-anchor="middle"
+    fill="#8B949E"
+    font-family="Segoe UI, Arial, Helvetica, sans-serif"
+    font-size="16"
+    font-weight="400"
+    letter-spacing="3"
+  >
+    SOFTWARE SECURITY · LLM SECURITY · AI4SE
+  </text>
+
+
+  <!-- ===================== SEPARATOR ===================== -->
+
+  <line
+    x1="420"
+    y1="222"
+    x2="780"
+    y2="222"
+    stroke="#30363D"
+    stroke-width="1"
+  />
+
+  <circle
+    cx="600"
+    cy="222"
+    r="3"
+    fill="#A371F7"
+    filter="url(#glow)"
+  />
+
+
+  <!-- ===================== META ===================== -->
+
+  <text
+    x="600"
+    y="255"
+    text-anchor="middle"
+    fill="#6E7681"
+    font-family="Courier New, monospace"
+    font-size="12"
+    letter-spacing="2"
+  >
+    TONGJI UNIVERSITY · AUTOMATED VULNERABILITY REPAIR
+  </text>
+
+</svg>
