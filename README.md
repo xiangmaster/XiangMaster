@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&height=45&lines=Software+Engineering+%40+Tongji+University;Automated+Vulnerability+Repair;Software+Security+%C2%B7+LLM+%2F+Agent+Security;Building+Safer+Intelligent+Software"
+    src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=21&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&height=45&lines=Software+Engineering+%40+Tongji+University;Preparing+for+Graduate+Study+%40+SJTU;Software+Security+%C2%B7+LLM+%2F+Agent+Security;Building+Safer+Intelligent+Software"
     alt="Typing SVG"
   />
 </p>
@@ -49,16 +49,18 @@
 ## ✦ About Me
 
 <p align="center">
-  <b>Software Engineering @ Tongji University</b>
+  <b>B.Eng. in Software Engineering @ Tongji University</b>
+  <br/>
+  <b>Incoming M.S. Student @ Shanghai Jiao Tong University (2027)</b>
   <br/>
   <sub>
     Exploring the intersection of Software Security, Large Language Models, and Software Engineering.
   </sub>
 </p>
 
-🎓 I'm an undergraduate student majoring in **Software Engineering at Tongji University**.
+🎓 I'm currently an undergraduate student in **Software Engineering at Tongji University**. I have received **pre-admission to a master's program at Shanghai Jiao Tong University (SJTU)** and expect to begin my graduate studies in **2027**.
 
-🔐 My research interests center on **Automated Vulnerability Repair**, **Software Security**, and **LLM / Agent Security**.
+🔐 As I prepare for graduate study at SJTU, I look forward to further exploring **Software Security**, **LLM / Agent Security**, and **Automated Vulnerability Repair**.
 
 🧠 I'm particularly interested in combining **large language models and program analysis** to understand, detect, and repair software vulnerabilities.
 
